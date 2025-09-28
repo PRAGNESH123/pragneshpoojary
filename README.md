@@ -122,3 +122,25 @@
 </p>
 
 
+---
+
+## 🤖 Generative AI & AI Tools  
+
+<p align="center">
+  <!-- ChatGPT -->
+  <img src="https://img.shields.io/badge/ChatGPT-00CFFF?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  
+  <!-- OpenAI -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  
+  <!-- TensorFlow -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  
+  <!-- PyTorch -->
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  
+  <!-- Hugging Face -->
+  <img src="https://img.shields.io/badge/HuggingFace-FEA63C?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+</p>
+
+
