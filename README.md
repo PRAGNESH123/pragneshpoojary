@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Pragnesh Poojary.
-💻 **Software Engineer | Experience in Fintech | Java + Spring Boot + React + AWS**  
+💻 **Software Engineer | Hands on experience in Fintech | Java + Spring Boot + React + AWS**  
 🌍 Passionate about building scalable systems, robust and interactive applications.
 
 ---
