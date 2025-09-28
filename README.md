@@ -9,7 +9,7 @@
 - 🔧 Hands-on with **Java, Spring Boot, ReactJS**
 - 🌱 Currently focusing on learning AWS and Docker. 
 - ☁️ Experienced in **microservices, cloud deployment, REST APIs**  
-- 🎯 Passionate about **problem solving & competitive coding**  
+- 🎯 Passionate about **problem solving**  
 - 📈 Always learning, exploring new technologies, and improving scalability of systems  
 
 
@@ -42,9 +42,9 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Pragnesh10/a">
-    <img src="https://leetcard.jacoblin.cool/your-username?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/Pragnesh10?theme=dark&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 
-![LeetCode Solved](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Solved&query=solved&url=https://leetcode-badge-api.vercel.app/api/Pragnesh10&logo=leetcode&logoColor=white&color=orange)
+![LeetCode Solved](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Solved&query=solved&url=https://leetcode-badge-api.vercel.app/api/&logo=leetcode&logoColor=white&color=orange)
 
