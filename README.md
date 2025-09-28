@@ -46,6 +46,27 @@
   </a>
 </p>
 
-![LeetCode Solved](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Problems%20Solved&query=solved&url=https://leetcode-badge-api.vercel.app/api/Pragnesh10&logo=leetcode&logoColor=yellow&color=orange)
+
+
+---
+
+## 🛠️ Languages & Frameworks  
+
+<p align="center">
+  <!-- Java -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  
+  <!-- JavaScript -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  
+  <!-- Spring Boot -->
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  
+  <!-- Microservices -->
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=architectural-decision-record&logoColor=white" alt="Microservices"/>
+  
+  <!-- React -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS"/>
+</p>
 
 
