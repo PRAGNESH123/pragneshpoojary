@@ -33,7 +33,17 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PRAGNESH123&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PRAGNESH123&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRAGNESH123&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>  
+
+---
+
+## 🧑‍💻 Coding Profiles  
+
+<p align="center">
+  <a href="https://leetcode.com/u/Pragnesh10/a">
+    <img src="https://leetcard.jacoblin.cool/your-username?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</p>
+
+![LeetCode Solved](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Solved&query=solved&url=https://leetcode-badge-api.vercel.app/api/your-username&logo=leetcode&logoColor=white&color=orange)
