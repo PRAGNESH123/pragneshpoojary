@@ -46,5 +46,6 @@
   </a>
 </p>
 
-![LeetCode Solved](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=LeetCode%20Solved&query=solved&url=https://leetcode-badge-api.vercel.app/api/https://leetcode.com/u/Pragnesh10/a&logo=leetcode&logoColor=white&color=orange)
+![LeetCode Solved](https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Problems%20Solved&query=solved&url=https://leetcode-badge-api.vercel.app/api/Pragnesh10&logo=leetcode&logoColor=yellow&color=orange)
+
 
