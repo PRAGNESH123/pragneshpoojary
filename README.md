@@ -78,10 +78,7 @@
 <p align="center">
   <!-- AWS -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  
-  <!-- Docker -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  
+    
   <!-- Jenkins -->
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   
@@ -102,6 +99,13 @@
   
   <!-- WinSCP (Custom Badge) -->
   <img src="https://img.shields.io/badge/WinSCP-00A489?style=for-the-badge&logo=files&logoColor=white" alt="WinSCP"/>
+
+   <!-- Eclipse -->
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse"/>
+  
+  <!-- IntelliJ IDEA -->
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
+</p>
 </p>
 
 
