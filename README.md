@@ -87,13 +87,7 @@
   
   <!-- Postman -->
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  
-  <!-- MySQL -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  
-  <!-- PostgreSQL -->
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  
+    
   <!-- PuTTY (Custom Badge) -->
   <img src="https://img.shields.io/badge/PuTTY-000000?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="PuTTY"/>
   
@@ -106,6 +100,25 @@
   <!-- IntelliJ IDEA -->
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/>
 </p>
+</p>
+
+
+---
+
+## 🗄️ Databases  
+
+<p align="center">
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  
+  <!-- Oracle -->
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  
+  <!-- PostgreSQL -->
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  
+  <!-- Redis -->
+  <img src="https://img.shields.io/badge/Redis-D32F2F?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
 
