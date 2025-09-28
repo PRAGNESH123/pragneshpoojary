@@ -12,7 +12,8 @@
 - 🎯 Passionate about **problem solving**  
 - 📈 Always learning, exploring new technologies, and improving scalability of systems
 - 📫 How to reach me: pragnesh.poojary@gmail.com  
-- 👨‍💻 All of my projects are available [here]([https://github.com/your-username?tab=repositories](https://github.com/PRAGNESH123)
+- 👨‍💻 All of my projects are available [here](https://github.com/PRAGNESH123)
+
 
 
 ---
