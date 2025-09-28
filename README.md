@@ -70,3 +70,38 @@
 </p>
 
 
+---
+
+
+## ☁️ Cloud & Tools  
+
+<p align="center">
+  <!-- AWS -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  
+  <!-- Docker -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  
+  <!-- Jenkins -->
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  
+  <!-- Postman -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  
+  <!-- PostgreSQL -->
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  
+  <!-- PuTTY (Custom Badge) -->
+  <img src="https://img.shields.io/badge/PuTTY-000000?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="PuTTY"/>
+  
+  <!-- WinSCP (Custom Badge) -->
+  <img src="https://img.shields.io/badge/WinSCP-00A489?style=for-the-badge&logo=files&logoColor=white" alt="WinSCP"/>
+</p>
+
+
